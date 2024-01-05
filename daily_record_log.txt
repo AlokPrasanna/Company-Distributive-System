@@ -1,0 +1,4 @@
+10/8/2020               SAL01                     Alok                6000
+10/8/2020               SAL03                    Pasan                6000
+10/8/2020               SAL02              Jayathilaka                4000
+10/8/2020               SAL05                    Kamal                5500
